@@ -12,3 +12,7 @@ Use [Joint Training](https://www.dropbox.com/s/xtr4yd4i5e0vw8g/iccv15_tutorial_t
 
 ## Some Results.
 ![Examples](https://github.com/Novelfor/FaceDetector_tf/blob/master/imgs/example.png)
+
+## Something else.
+For Face Detection, R-CNN base method may not be a best way to implement it. MTCNN, Cascade CNN may be better.
+No implementation of multiple GPUS. 
